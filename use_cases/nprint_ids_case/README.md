@@ -104,6 +104,6 @@ The results of the Truste Report and Trustee can be found at the `./res/output/`
 
 ## References
 
-[1] J. Holland, P. Schmitt, N. Feamster, and P. Mittal. New Directions in Automated Traffic Analysis. In Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security, CCS ’21, page 3366–3383, New York, NY, USA, 2021. Association for Computing Machinery.
-[2] N. Erickson, J. Mueller, A. Shirkov, H. Zhang, P. Larroy, M. Li, and A. Smola. AutoGluon-Tabular: Robust and Accurate AutoML for Structured Data, 2020.
-[3] I. Sharafaldin., A. H. Lashkari., and A. A. Ghorbani. Toward Gener- ating a New Intrusion Detection Dataset and Intrusion Traffic Characterization. In Proceedings of the 4th International Conference on Information Systems Security and Privacy - ICISSP, pages 108–116. INSTICC, SciTePress, 2018.
+[1] J. Holland, P. Schmitt, N. Feamster, and P. Mittal. New Directions in Automated Traffic Analysis. In Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security, CCS ’21, page 3366–3383, New York, NY, USA, 2021. Association for Computing Machinery.<br>
+[2] N. Erickson, J. Mueller, A. Shirkov, H. Zhang, P. Larroy, M. Li, and A. Smola. AutoGluon-Tabular: Robust and Accurate AutoML for Structured Data, 2020.<br>
+[3] I. Sharafaldin., A. H. Lashkari., and A. A. Ghorbani. Toward Gener- ating a New Intrusion Detection Dataset and Intrusion Traffic Characterization. In Proceedings of the 4th International Conference on Information Systems Security and Privacy - ICISSP, pages 108–116. INSTICC, SciTePress, 2018.<br>

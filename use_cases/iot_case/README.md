@@ -86,5 +86,5 @@ The results of the Truste Report and Trustee can be found at the `./res/output/`
 
 ## References
 
-[1] Z. Xiong and N. Zilberman. Do Switches Dream of Machine Learning? Toward In-Network Classification. In Proceedings of the 18th ACM Workshop on Hot Topics in Networks, HotNets ’19, page 25–33, New York, NY, USA, 2019. Association for Computing Machinery.
-[2] A. Sivanathan, H. H. Gharakheili, F. Loi, A. Radford, C. Wijenayake, A. Vishwanath, and V. Sivaraman. Classifying IoT Devices in Smart Environments Using Network Traffic Characteristics. IEEE Transactions on Mobile Computing, 18(8):1745–1759, 2019.
+[1] Z. Xiong and N. Zilberman. Do Switches Dream of Machine Learning? Toward In-Network Classification. In Proceedings of the 18th ACM Workshop on Hot Topics in Networks, HotNets ’19, page 25–33, New York, NY, USA, 2019. Association for Computing Machinery.<br>
+[2] A. Sivanathan, H. H. Gharakheili, F. Loi, A. Radford, C. Wijenayake, A. Vishwanath, and V. Sivaraman. Classifying IoT Devices in Smart Environments Using Network Traffic Characteristics. IEEE Transactions on Mobile Computing, 18(8):1745–1759, 2019.<br>

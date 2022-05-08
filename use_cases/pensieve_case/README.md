@@ -13,5 +13,5 @@ Meanwhile, the Pensieve experimental setup evaluation can be executed inside a V
 
 ## References
 
-[1] H. Mao, R. Netravali, and M. Alizadeh. Neural Adaptive Video Streaming with Pensieve. In Proceedings of the Conference of the ACM Special Interest Group on Data Communication, SIGCOMM ’17, page 197–210, New York, NY, USA, 2017. Association for Computing Machinery. Code available at GitHub repository at https: //github.com/hongzimao/pensieve.
-[2] Z. Meng, M. Wang, J. Bai, M. Xu, H. Mao, and H. Hu. Interpreting Deep Learning-Based Networking Systems. In Proceedings of the Annual Conference of the ACM SIGCOMM, SIGCOMM ’20, page 154–171, New York, NY, USA, 2020. Association for Computing Machinery.
+[1] H. Mao, R. Netravali, and M. Alizadeh. Neural Adaptive Video Streaming with Pensieve. In Proceedings of the Conference of the ACM Special Interest Group on Data Communication, SIGCOMM ’17, page 197–210, New York, NY, USA, 2017. Association for Computing Machinery. Code available at GitHub repository at https: //github.com/hongzimao/pensieve.<br>
+[2] Z. Meng, M. Wang, J. Bai, M. Xu, H. Mao, and H. Hu. Interpreting Deep Learning-Based Networking Systems. In Proceedings of the Annual Conference of the ACM SIGCOMM, SIGCOMM ’20, page 154–171, New York, NY, USA, 2020. Association for Computing Machinery.<br>

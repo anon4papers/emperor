@@ -90,5 +90,5 @@ The results of the Truste Report and Trustee can be found at the `./res/output/`
 
 ## References
 
-[1] W. Wang, M. Zhu, J. Wang, X. Zeng, and Z. Yang. End-to-end encrypted traffic classification with one-dimensional convolution neural networks. In 2017 IEEE International Conference on Intelligence and Security Informatics (ISI), pages 43–48, 2017. Code available at GitHub repository https://github.com/echowei/DeepTraffic.
-[2] G. Draper-Gil., A. H. Lashkari., M. S. I. Mamun, and A. A. Ghorbani. Characterization of Encrypted and VPN Traffic using Time-related Features. In Proceedings of the 2nd International Conference on Information Systems Security and Privacy - ICISSP,, pages 407–414. INSTICC, SciTePress, 2016.
+[1] W. Wang, M. Zhu, J. Wang, X. Zeng, and Z. Yang. End-to-end encrypted traffic classification with one-dimensional convolution neural networks. In 2017 IEEE International Conference on Intelligence and Security Informatics (ISI), pages 43–48, 2017. Code available at GitHub repository https://github.com/echowei/DeepTraffic.<br>
+[2] G. Draper-Gil., A. H. Lashkari., M. S. I. Mamun, and A. A. Ghorbani. Characterization of Encrypted and VPN Traffic using Time-related Features. In Proceedings of the 2nd International Conference on Information Systems Security and Privacy - ICISSP,, pages 407–414. INSTICC, SciTePress, 2016.<br>
